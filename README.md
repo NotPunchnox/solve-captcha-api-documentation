@@ -2,4 +2,4 @@
 
 https://solve-captcha.herokuapp.com/
 
-check floders
+check folders
